@@ -64,12 +64,13 @@ Attached Image.
 
 
 ## Database Design
-
-Table Termnal-Occupancy.
+<br><p><b>
+Table Termnal-Occupancy
+</b></p><br>
 parking-lot-id
-timestamp
+<br>timestamp
 occupancy 
-
+<br>
 
 Table parking-lot
 
