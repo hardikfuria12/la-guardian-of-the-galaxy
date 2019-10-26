@@ -44,9 +44,9 @@ Attached Image.
 
 
 ## Database Design
-<br><u>
+<br><p><b>
 Table Termnal-Occupancy
-</u><br>
+</b></p><br>
 parking-lot-id
 <br>timestamp
 occupancy 
